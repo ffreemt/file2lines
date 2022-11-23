@@ -1,0 +1,28 @@
+{
+  "name": "file2lines",
+  "version": "0.0.1",
+  "description": "convert a file to array of lines/paras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffreemt/file2lines.git"
+  },
+  "keywords": [
+    "file",
+    "utils",
+    "conversion"
+  ],
+  "author": "ffreemt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ffreemt/file2lines/issues"
+  },
+  "homepage": "https://github.com/ffreemt/file2lines#readme",
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "jschardet": "^3.0.0"
+  }
+}
