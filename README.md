@@ -1,4 +1,4 @@
-# axios-elasticsearch [![npm version](https://badge.fury.io/js/file2lines.svg)](https://badge.fury.io/js/file2lines)
+# file2lines [![mocha](https://github.com/ffreemt/file2lines/actions/workflows/test.yml/badge.svg)](https://github.com/ffreemt/file2lines/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/file2lines.svg)](https://badge.fury.io/js/file2lines)
 convert a file (autodetect encoding) to an array of lines/paras
 
 ## Installation
